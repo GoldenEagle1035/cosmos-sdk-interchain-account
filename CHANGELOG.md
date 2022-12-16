@@ -15,3 +15,8 @@
 ##### June, 2020
 
  * Implement PoC version of interchain account
+
+
+##### Nov, 2022
+
+ * Pull requested by john

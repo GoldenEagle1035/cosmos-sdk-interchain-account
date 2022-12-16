@@ -5,7 +5,9 @@
 
 ## Introduction
 
-This repository contains the code to operate an IBC interchain account as specified in [Interchain Standards 27](https://github.com/cosmos/ics/tree/master/spec/ics-027-interchain-accounts). Please refer to the ICS27 specification for technical details on how interchain accounts work. Current implementation supports interchain accounts on the Cosmos-SDK implementation of ICS27. For information on use-cases of interchain accounts, please refer to this [introductory blogpost](https://medium.com/chainapsis/why-interchain-accounts-change-everything-for-cosmos-interoperability-59c19032bf11).
+This repository contains the code to operate an IBC interchain account as specified in [Interchain Standards 27](https://github.com/cosmos/ics/tree/master/spec/ics-027-interchain-accounts).
+This is the open source project.
+Please refer to the ICS27 specification for technical details on how interchain accounts work. Current implementation supports interchain accounts on the Cosmos-SDK implementation of ICS27. For information on use-cases of interchain accounts, please refer to this [introductory blogpost](https://medium.com/chainapsis/why-interchain-accounts-change-everything-for-cosmos-interoperability-59c19032bf11).
 
 ## Demo Build
 
